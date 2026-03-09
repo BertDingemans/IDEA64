@@ -1,0 +1,2691 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IDEA
+</name>
+</assembly>
+<members>
+<member name="T:IDEA.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ApplicationCollaboration">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ApplicationComponent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ApplicationEvent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ApplicationFunction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ApplicationInteraction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ApplicationInterface">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ApplicationProcess">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ApplicationService">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Artifact">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Assessment">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessActor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessCollaboration">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessEvent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessInteraction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessInterface">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessObject">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessProcess">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessRole">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_BusinessService">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Capability">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_CommunicationNetwork">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Constraint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Contract">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_CourseOfAction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_DataObject">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Deliverable">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Device">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_DistributionNetwork">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Driver">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Equipment">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Facility">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Gap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Goal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Grouping">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ImplementationEvent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Junction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Location">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Material">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Meaning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Node">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Outcome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Path">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Plateau">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Principle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Product">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Representation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Requirement">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Resource">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Stakeholder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_SystemSoftware">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_TechnologyCollaboration">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_TechnologyEvent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_TechnologyFunction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_TechnologyInteraction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_TechnologyInterface">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_TechnologyProcess">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_TechnologyService">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_Value">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_ValueStream">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.ArchiMate_WorkPackage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.busy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.Eaxpertise_small">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.InterActorylogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:IDEA.My.Resources.Resources.InterActorylogoklein">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:IDEA.DLAFormfactory.Dataset2DDL">
+ <summary>
+ Transform the dataset content to DDL commands
+ </summary>
+</member>
+<member name="P:IDEA.DLAFormfactory.Dataset2DDL.SQL">
+ <summary>
+ Get the constructed SQL statement
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.Dataset2DDL.Dataset2SQL(System.Data.DataSet,System.Boolean,System.Boolean,System.Boolean)">
+ <summary>
+ Routine to execute the transformation f'rom a datatable to DDL sql statements
+ </summary>
+ <param name="DS">dataset with datatables and systemtables</param>
+ <param name="Systemtables">Process the systemtables</param>
+ <param name="modeltables">process the modeltables</param>
+ <param name="foreignkeys">create ddle for the foreign keys</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.Dataset2DDL.DataRelation2SQL(System.Data.DataRelation)">
+ <summary>
+ Transform a relation element in the datatable to an alter table statement in ddl
+ </summary>
+ <param name="Relation">Relation to process</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.Dataset2DDL.DataTable2SQL(System.Data.DataTable,System.Boolean,System.Boolean)">
+ <summary>
+ Transform a datatable to a ddl sql statement
+ </summary>
+ <param name="Table">Data table to process</param>
+ <returns>True or false for the processing of this function</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.Dataset2DDL.DataColumn(System.Data.DataColumn,System.Data.DataColumn[])">
+ <summary>
+ Process a datacolumn in a datatable to a part of a DDL sql statement
+ </summary>
+ <param name="Column">Column to process</param>
+ <param name="PrimaryKeys">Process the collection of primary keys</param>
+ <returns>Result of ths function</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.Dataset2DDL.DataType2SQL(System.Data.DataColumn)">
+ <summary>
+ Process the datatype in the datatable to a relevant SQL server datatype
+ </summary>
+ <param name="DataColumn">The column to process</param>
+ <returns>SQL datatype</returns>
+</member>
+<member name="T:IDEA.DLAFormfactory.DataSet2Repository">
+ <summary>
+ Helper class for transforming output from the Sparx API in a more usable format
+ within a DotNet (windows) application.
+ </summary>
+</member>
+<member name="F:IDEA.DLAFormfactory.DataSet2Repository._Package_id">
+ <summary>
+ Bewaar de package property voor het aanmaken van elementen in dit package
+ </summary>
+</member>
+<member name="P:IDEA.DLAFormfactory.DataSet2Repository.Package_Id">
+ <summary>
+ Return the stored package id
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:IDEA.DLAFormfactory.DataSet2Repository.Repository">
+ <summary>
+ include a reference to the repository as that saves typing
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddElementAndConnector(EA.Element,System.Data.DataRow,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Process a datarow for import to transform to a new element and association in EA
+ </summary>
+ <param name="Parent">The element to start from</param>
+ <param name="objRow">Datarow that is imported</param>
+ <param name="Fieldname">The name of the field in the datarow</param>
+ <param name="objStereoType">The stereotype of the element to connect to</param>
+ <param name="ConStereoType">The stereotype of the column to connect to</param>
+ <param name="PostFix">Eventually use a postfix (for a context) for the fieldcontent</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddElementAndConnectorValue(EA.Element,System.String,System.String,System.String,System.Boolean,System.String,System.String,System.String)">
+ <summary>
+ Create a new object and connector to the repository
+ </summary>
+ <param name="Parent">Parent entity</param>
+ <param name="Fieldvalue">Fieldvalue and postfix is combined to create the name of the linked object</param>
+ <param name="objStereoType">Stereotype of the element that will be created</param>
+ <param name="ConStereoType">Stereotype of the connector between the object and the newly created element</param>
+ <param name="blnSoureToTarget">Direction of the connector</param>
+ <param name="PostFix">Fieldvalue and postfix is combined to create the name of the linked object</param>
+ <param name="ConnectorText">Text for the connector name</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.ProcessMappingDefinitions(System.Data.DataRow,System.Data.DataRow,EA.Element)">
+ <summary>
+ Process the mapping definitions that are used for the import of the excel sheet to the repository
+ </summary>
+ <param name="DefinitionRow">Definition of the mapping as a datarow from the definitions dataset</param>
+ <param name="ImportRow">Data items that are transformed in the import routine</param>
+ <param name="Element">Element to create the content to</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddAttribute(EA.Element,System.String,System.String)">
+ <summary>
+ Add an attribute to an element
+ </summary>
+ <param name="objElement">The element that is parent</param>
+ <param name="strName">The name of the attribute</param>
+ <param name="strType">The datatype of the element</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddOrUpdateTaggedValue(EA.Element,System.String,System.Data.DataRow,System.Boolean)">
+ <summary>
+ Add (when not exist) or update a tagged value from a datarow
+ </summary>
+ <param name="Element">Parent element</param>
+ <param name="name">Name of the field in the datarow</param>
+ <param name="Row">Datarow with the import data</param>
+ <param name="isMemo">Is the value a memo</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddOrUpdateTaggedValue(EA.Element,System.String,System.String,System.Data.DataRow,System.Boolean)">
+ <summary>
+ Add (when not exist) or update a tagged value from a datarow with a different tv name
+ </summary>
+ <param name="Element">Parement element</param>
+ <param name="tvname">Name of the tagged value</param>
+ <param name="rowname">Name of the field in the datarow</param>
+ <param name="Row">datarow with imported data</param>
+ <param name="isMemo">Memo field</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.GetTaggedValue(EA.Element,System.String)">
+ <summary>
+ Get a tagged value content for an element
+ </summary>
+ <param name="Element">Parent element</param>
+ <param name="name">Tagged value name</param>
+ <returns>Tagged value content</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddOrUpdateTaggedValue(EA.Element,System.String,System.String,System.Boolean)">
+ <summary>
+ Add or update a tagged value to an element
+ </summary>
+ <param name="Element">Parent object</param>
+ <param name="name">Tagged value name</param>
+ <param name="value">Tagged value content</param>
+ <param name="isMemo">Is the value a memo value</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.ConvertStereotype2Type(System.String)">
+ <summary>
+ Convert a stereotype to an objecttype
+ </summary>
+ <param name="stereotype">Name of the stereotype</param>
+ <returns>Name of the objecttype</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.ConvertAssociationStereotype2Type(System.String)">
+ <summary>
+ Convert a stereotype of a connector to a connectortype
+ </summary>
+ <param name="stereotype">Name of the stereotype</param>
+ <returns>Name of the connectortype</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddElement(System.String,System.String,System.String)">
+ <summary>
+ Add an element to the repository
+ </summary>
+ <param name="stereotype">Stereotype of the element</param>
+ <param name="name">Name of the element</param>
+ <param name="memo">Note field text</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddPackage(System.String,System.String)">
+ <summary>
+ Add a package to the model based on the name and a memo text
+ Developed for the Dutch Air Traffic Control
+ </summary>
+ <param name="name">Name of the Package</param>
+ <param name="memo">Eventually a memo text an empty string will not add a memo of course</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddUMLElement(System.String,System.String)">
+ <summary>
+ Add a new UML element instead of an ArchiMate MDG item
+ </summary>
+ <param name="name">Name of the element hat will be creayed</param>
+ <param name="objecttype">Object type in the UML notation for the element to  create</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.FindPackage(System.String)">
+ <summary>
+ Find a package by name
+ </summary>
+ <param name="name">Name to search for</param>
+ <returns>The found package or nothing</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.FindOrAddElement(System.String,System.String,System.Boolean@)">
+ <summary>
+ Search or add an element by name and stereotype
+ </summary>
+ <param name="name">Name of the element</param>
+ <param name="stereotype">Stereotype</param>
+ <param name="Found">Element found (true) or added (false)</param>
+ <returns>Element found or added</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.FindOrAddElement(System.String,System.String,System.Boolean@,System.String)">
+ <summary>
+ Find or add an element including a memo
+ </summary>
+ <param name="name">Name of the element</param>
+ <param name="stereotype">Stereotype</param>
+ <param name="Found">Element found (true) or added (false)</param>
+ <param name="memo">Memo with a description of the element</param>
+ <returns>Element found or added</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.FindOrAddPackage(System.String,System.Boolean@,System.String)">
+ <summary>
+ Find or add a package based on the name use this call when a memo is available
+ </summary>
+ <param name="name"></param>
+ <param name="Found"></param>
+ <param name="memo"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.FindElement(System.String,System.String,System.Boolean@)">
+ <summary>
+ Search for an element by name and stereotype
+ </summary>
+ <param name="name">Name of the element</param>
+ <param name="stereotype">Stereotye of the element</param>
+ <param name="Found">Is the element found</param>
+ <returns>The found element or nothing</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.FindPackage(System.String,System.Boolean@)">
+ <summary>
+ Find a package by name
+ </summary>
+ <param name="name">Name o search for</param>
+ <param name="Found">Reference parameter for a found element or not</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.FindElementByTaggedValue(System.String,System.String)">
+ <summary>
+ Search for an element by tagged value (for keys from an external system
+ </summary>
+ <param name="name">Tagged value name</param>
+ <param name="value">Value to search for</param>
+ <returns>The found element or nothing</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddConnector(EA.Element,EA.Element,System.String,System.String)">
+ <summary>
+ vAdd a connector to the repository
+ </summary>
+ <param name="Source">Source object</param>
+ <param name="Target">Target object</param>
+ <param name="stereotype">Connector stereotype</param>
+ <returns>The added connector or nothing</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DataSet2Repository.AddConnector(EA.Element,EA.Element,System.String,System.String,System.String)">
+ <summary>
+ Add a connector to the reposity with a connector name
+ </summary>
+ <param name="Source">Source object</param>
+ <param name="Target">Target object</param>
+ <param name="stereotype">Connector stereotype</param>
+ <param name="Melding">Name of the connector</param>
+ <returns>Added connector or nothing</returns>
+</member>
+<member name="T:IDEA.DLAFormfactory.DeDuplicator">
+ <summary>
+ Class for doing the generic routines of deduplication. This has various
+ routines for deduplicating elements.
+ </summary>
+</member>
+<member name="F:IDEA.DLAFormfactory.DeDuplicator._Repository">
+ <summary>
+ Reference to the EArepository
+ </summary>
+</member>
+<member name="F:IDEA.DLAFormfactory.DeDuplicator.strOriginals">
+ <summary>
+ String concatenation of the various properties of the original
+ </summary>
+</member>
+<member name="F:IDEA.DLAFormfactory.DeDuplicator.strModules">
+ <summary>
+ String concatenation of the various properties of the duplicate
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.DeDuplicator.AddModuleViaCheckBox(System.Windows.Forms.CheckBox)">
+ <summary>
+ Helper routine to bring the values of the checkboxes in the deduplicator screen
+ to the deduplicator functions
+ </summary>
+ <param name="objControl"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DeDuplicator.HasModule(System.String)">
+ <summary>
+ Method to check for running a deduplication routine
+ </summary>
+ <param name="sModule"></param>
+</member>
+<member name="P:IDEA.DLAFormfactory.DeDuplicator.Repository">
+ <summary>
+ Connection to the open and active repostory
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DeDuplicator.DeDuplicatePackage(EA.Package,System.String,System.Windows.Forms.ProgressBar,System.Data.DataTable)">
+ <summary>
+ Get duplicates based on the selected package
+ </summary>
+ <param name="oPackage"></param>
+ 
+</member>
+<member name="M:IDEA.DLAFormfactory.DeDuplicator.DeDuplicateConnectors(EA.Package,System.String,System.Windows.Forms.ProgressBar,System.Data.DataTable)">
+ <summary>
+ Deduplicate connectors in the package
+ </summary>
+ <param name="oPackage">Root package</param>
+ <param name="DuplicatePackageId">Move the duplicates to a duplicates packages</param>
+ <param name="ProgressBar">Progress Bar</param>
+ <param name="oConDT">Datatable with duplicate connectors</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DeDuplicator.DeduplicateElement(System.String,System.String,System.String,System.String)">
+ <summary>
+ Deduplicate two elements in which you merge a number of child elements from the duplicate to the original
+ </summary>
+ <param name="strOriginalID">Original element (to maintain)</param>
+ <param name="strDuplicateID">Duplicate element (to move to the duplicate folder)</param>
+ <param name="strPackageID">Package id for the duplicates to move to</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DeDuplicator.DeduplicateConnector(System.String,System.String,System.String,System.String)">
+ <summary>
+ Deduplicate a connector, often there are more connectors between two elements
+ because users hide associations and create new ones
+ </summary>
+ <param name="strOriginalID"></param>
+ <param name="strDuplicateID"></param>
+ <param name="strPackageID"></param>
+ <param name="strDuplPackageId"></param>
+</member>
+<member name="T:IDEA.DLAFormfactory.DLADatabase">
+ <summary>
+ Communication with a database via oledb
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.IsOleDB">
+ <summary>
+ Is the sql connection an oledb connection
+ </summary>
+ <returns>True when an oledb connection</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.GetConnectionString">
+ <summary>
+ Get the active connectionstring
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.IsMSAccess">
+ <summary>
+ Is it an access database that is connected
+ this makes some sql statements different like wildcards
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.MakeConnection">
+ <summary>
+ Make connection to a database
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.SetConnection(System.String)">
+ <summary>
+ Set the connection string for the database
+ </summary>
+ <param name="strConnect"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.#ctor">
+ <summary>
+ Instantiate database object
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.#ctor(System.String)">
+ <summary>
+ Instantiate the database object with a connectionstring
+ </summary>
+ <param name="Connection"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.SupplierIsDataSet">
+ <summary>
+ Indicates whether the DLASupplier is a dataset instead of a datareader
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.SupplierIsReader">
+ <summary>
+ Indicates whether the DLASupplier is a datareader instead of a dataset
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.ClearError">
+ <summary>
+ Opnieuw een statement uitvoeren dus eerst de foutenlog clearen
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.GetErrorMessage">
+ <summary>
+ Retrieve any stacked error messages
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.SQL2DataTable(System.String,System.Data.DataTable)">
+ <summary>
+ Execute a Data Retrieve statement and return it as a datatable
+ </summary>
+ <param name="Sql"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.ExecuteModify(System.String)">
+ <summary>
+ execute a Data Manipulation (insert/update/delete) statement
+ </summary>
+ <param name="strSql">SQL statement to execute</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.OpenConnection(System.Boolean)">
+ <summary>
+ Open a connection to the database 
+ </summary>
+ <param name="blnTrans">Use a transaction</param>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.CloseConnection(System.Boolean)">
+ <summary>
+ Close an open databaseconnection
+ </summary>
+ <param name="blnOk"></param>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.DefaultSql(System.String)">
+ <summary>
+ Process the sql statement to a standard so that the NULLs are handled correctly
+ </summary>
+ <param name="strSql"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.ExecuteSupply(System.String)">
+ <summary>
+ Execute a sql statement and transform to a supplier
+ </summary>
+ <param name="strSql"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADatabase.ExecuteSupply(System.String,System.Boolean)">
+ <summary>
+ Execute a sql as a selectstatement and return a data supplier
+ </summary>
+ <param name="strSql">SQL statement</param>
+ <param name="blnSupplierAsReader">Define the supplier type</param>
+ <returns></returns>
+</member>
+<member name="T:IDEA.DLAFormfactory.DLADataSetContainer">
+ <summary>
+ Dataset container for the IDEA simulator
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.GetDataTable(System.String)">
+ <summary>
+ Get a datatable from the dataset by name
+ </summary>
+ <param name="Name">Name of the datatable to retrieve</param>
+ <returns></returns>
+</member>
+<member name="P:IDEA.DLAFormfactory.DLADataSetContainer.ContainerDataSet">
+ <summary>
+ Get the dataset with the simulator elements
+ </summary>
+ <returns>Dataset</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.#ctor(System.String)">
+ <summary>
+ Instantiate the simulator dataset container
+ </summary>
+ <param name="Name"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddTable(System.String)">
+ <summary>
+ Add an empty datatable to the dataset
+ </summary>
+ <param name="Name">Name of the new table</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddTable(System.String,System.Data.DataTable)">
+ <summary>
+ Add a datatable to the dataset
+ </summary>
+ <param name="Name">Name of the table in the dataset</param>
+ <param name="DT"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.CreateControlTable">
+ <summary>
+ Create a control table and define the columns
+ Control table is relevant for the simulator user interface
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.DataTable2Command">
+ <summary>
+ Transform the datatables in the tables collection to sql statments for insert update etc
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.CreateCommandTable">
+ <summary>
+ Create the structure of the sys_command datatable   
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddExtraTable">
+ <summary>
+ Add extra tables to the dataet for various system settings of the simulator
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddCommand(System.String,System.String,System.String)">
+ <summary>
+ Add a command to the command systemtable
+ </summary>
+ <param name="Tablename">Name of the datatable</param>
+ <param name="Commandname">Name of the command (insert/update etc</param>
+ <param name="Statement">SQL statement</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddRelation(System.String,System.String,System.String)">
+ <summary>
+ Add a relation between the parent and the child object and combine it with a defined lookup
+ </summary>
+ <param name="parent"></param>
+ <param name="Child"></param>
+ <param name="lookup"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.Column2ParaMeter(System.Data.DataColumn)">
+ <summary>
+ Transform a columnname to a default parameter template
+ </summary>
+ <param name="Column">Datacolumn</param>
+ <returns>Parameter template</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.DataTable2Insert(System.Data.DataTable)">
+ <summary>
+ Transform a datatable to an insert statement
+ </summary>
+ <param name="Table"></param>
+ <returns>Insert statement</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.DataTable2Delete(System.Data.DataTable)">
+ <summary>
+ Transform a datatable to an delete statement
+ </summary>
+ <param name="Table"></param>
+ <returns>Delete statement</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.DataTable2Update(System.Data.DataTable)">
+ <summary>
+ Transform a datatable to an update statement
+ </summary>
+ <param name="Table"></param>
+ <returns>Update statement</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.DataTable2Detail(System.Data.DataTable)">
+ <summary>
+ Transform a datatable to an one row select statement
+ </summary>
+ <param name="Table"></param>
+ <returns>Select statement</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.DataTable2List(System.Data.DataTable)">
+ <summary>
+ Transform a datatable to a search select statement
+ </summary>
+ <param name="Table">Table name</param>
+ <returns>Select </returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.Table2Where(System.Data.DataTable)">
+ <summary>
+ create a where statement for a datatable
+ </summary>
+ <param name="Table"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.CreateEnumerationTable">
+ <summary>
+ transform an enumeration to the content of the enumeration system table
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.CreateRelationTable">
+ <summary>
+ Create a system table for the relations for processing in the simulator and the form factory 
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.GetControlsForTable(System.String)">
+ <summary>
+ create a view with a list of controls for a table
+ </summary>
+ <param name="tablename"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.GetEnumeration(System.String)">
+ <summary>
+ Get an enumeration from the enumeration system table
+ </summary>
+ <param name="enumname"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.GetCommandForTable(System.String,System.String)">
+ <summary>
+ Get a commands from the system table with commands
+ </summary>
+ <param name="tablename">name of the table</param>
+ <param name="commandname"> name of the command</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.GetDataViewFromTable(System.String)">
+ <summary>
+ Get an empty dataview for a table
+ </summary>
+ <param name="Name"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.LoadDataFromSQL">
+ <summary>
+ Load the tables from a sql data source
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.LoadDataFromXML">
+ <summary>
+ Load the datatable content from a XML file
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.SaveDataToXML(System.Data.XmlWriteMode)">
+ <summary>
+ Save the dataset to a XML file
+ </summary>
+ <param name="WriteMode">Use write options for creating the XML file Default is no schema</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddColumn(System.Data.DataTable,System.String,System.String,System.String)">
+ <summary>
+ Add a datacolumn to a datatable in a default format
+ </summary>
+ <param name="DT"></param>
+ <param name="ColumnName"></param>
+ <param name="ColumnAlias"></param>
+ <param name="ColumnType"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddPrimaryKey(System.Data.DataTable,System.String)">
+ <summary>
+ Add a primary key to the datatable based on a column name
+ </summary>
+ <param name="DT"></param>
+ <param name="ColumnName"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.LookupToCommand(System.String,System.String)">
+ <summary>
+ Transform a Lookup definitie to a SQL select statement
+ </summary>
+ <param name="Table"></param>
+ <param name="Lookup"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddColumn(System.Data.DataTable,System.String,System.String,System.String,System.Boolean)">
+ <summary>
+ Add a column to a datatable with extra parameters for dbnull
+ </summary>
+ <param name="DT"></param>
+ <param name="ColumnName"></param>
+ <param name="ColumnAlias"></param>
+ <param name="ColumnType"></param>
+ <param name="AllowNull"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddCalculatedColumn(System.Data.DataTable,System.String,System.String,System.String,System.String)">
+ <summary>
+ Add a calculated column based on an expression
+ </summary>
+ <param name="DT"></param>
+ <param name="ColumnName"></param>
+ <param name="ColumnAlias"></param>
+ <param name="ColumnType"></param>
+ <param name="Expression"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddControl(System.String,System.String,System.String,System.Boolean,System.String)">
+ <summary>
+ Add a control to the systemtable with controls
+ </summary>
+ <param name="Tablename"></param>
+ <param name="Controlname"></param>
+ <param name="ControlType"></param>
+ <param name="ControlRequired"></param>
+ <param name="Controlcaption"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddConditions(EA.Element,System.Data.DataTable)">
+ <summary>
+ Add a constraint collection from the ea element and transform it to a validation calculated field
+ </summary>
+ <param name="Element"></param>
+ <param name="DT"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddControl(System.String,System.String,System.String,System.String,System.Boolean,System.String)">
+ <summary>
+ Add a control to the controls system table
+ </summary>
+ <param name="Tablename"></param>
+ <param name="Controlname"></param>
+ <param name="ControlType"></param>
+ <param name="Lookup"></param>
+ <param name="ControlRequired"></param>
+ <param name="Controlcaption"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.Inheritance2DataSet(EA.Element,System.Data.DataTable)">
+ <summary>
+ Transform the inheritance structure to a list of datacolumns in the datatable
+ </summary>
+ <param name="element"></param>
+ <param name="DT"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.DefaultLookup(EA.Element)">
+ <summary>
+ When there is no lookup defined create a lookup based on the scope public of the attributes
+ </summary>
+ <param name="Element"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.Connectors2DataSet(EA.Element,System.Int64)">
+ <summary>
+ Create connectors in the dataset from the connectors in EA
+ </summary>
+ <param name="Element"></param>
+ <param name="Package_id"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AttributeType2Control(EA.Attribute)">
+ <summary>
+ Transform the attribute type to a control for code generation
+ </summary>
+ <param name="Attribute">EA Attrbitute</param>
+ <returns>Controltype code</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.Attributes2Dataset(EA.Element,System.Data.DataTable,System.String)">
+ <summary>
+ Bring the attributes from an element to a datatable (columns)
+ </summary>
+ <param name="Element"></param>
+ <param name="DT"></param>
+ <param name="prefix"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetContainer.AddEnumeration(System.String,System.String)">
+ <summary>
+ Add an enumation to the system table in a structured format
+ </summary>
+ <param name="Enumname"></param>
+ <param name="Enumvalue"></param>
+ <returns></returns>
+</member>
+<member name="T:IDEA.DLAFormfactory.DLADataSetHelper">
+ <summary>
+ Helper for working with datatables and datasets in import and export routines
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetHelper.#ctor">
+ <summary>
+ Create a new instance of the helper
+ </summary>
+</member>
+<member name="P:IDEA.DLAFormfactory.DLADataSetHelper.DataRow">
+ <summary>
+ Active datarow of the datatable
+ </summary>
+</member>
+<member name="F:IDEA.DLAFormfactory.DLADataSetHelper._DataTable">
+ <summary>
+ Active datatable in a dataset
+ </summary>
+</member>
+<member name="P:IDEA.DLAFormfactory.DLADataSetHelper.DataTable">
+ <summary>
+ Set or get a datatable
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetHelper.NewDataTable(System.String,System.String[])">
+ <summary>
+ Create a new data table with a table name and a list of column names
+ </summary>
+ <param name="tablename"></param>
+ <param name="columns"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLADataSetHelper.DataTable2String(System.String)">
+ <summary>
+ Convert a datatable content to a string based on a template string
+ </summary>
+ <param name="template"></param>
+</member>
+<member name="T:IDEA.DLAFormfactory.DLALoadTree">
+ <summary>
+ Class for loading a treeview in the explorer windows of the simulator
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLALoadTree.LoadTreeViewNode(System.Data.DataTable,System.String,System.String[],System.Windows.Forms.TreeNode)">
+ <summary>
+ Load a node to the treeview
+ </summary>
+ <param name="Table">Data table with the values and display items</param>
+ <param name="strSleutel">Key for reference to the table content for use in an url</param>
+ <param name="strDisplay">Name to display in the treeview</param>
+ <param name="rootnode">Rootnode where the elements as child are added to</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLALoadTree.LoadTreeViewChildNodes(System.Data.DataRow[],System.String,System.String,System.Windows.Forms.TreeNode,System.String)">
+ <summary>
+ Added elements to a treeview based on datarows
+ </summary>
+ <param name="Rows">List of rows</param>
+ <param name="strSleutel">Key value to use for an url to navigate to an element</param>
+ <param name="strDisplay">Name to display in the treeview</param>
+ <param name="rootnode">Rootnode where the elements as child are added to</param>
+ <param name="childname">Table name for navigation in the url</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLALoadTree.LoadTreeViewNode(System.Data.DataTable,System.String,System.String,System.Windows.Forms.TreeNode)">
+ <summary>
+ 
+ </summary>
+ <param name="Table">Data table with the values and display items</param>
+ <param name="strSleutel">Key for reference to the table content for use in an url</param>
+ <param name="strDisplay">Name to display in the treeview</param>
+ <param name="rootnode">Rootnode where the elements as child are added to</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLALoadTree.PopulateNewChild(System.Windows.Forms.TreeNode,System.String)">
+ <summary>
+ Create a treeview element for adding new elements to the database
+ </summary>
+ <param name="rootnode"></param>
+ <param name="Childname"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLALoadTree.PopulateNew(System.Windows.Forms.TreeNode)">
+ <summary>
+ Create a treeview element for adding new elements to the database
+ </summary>
+ <param name="rootnode"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLALoadTree.SetFilter(System.String)">
+ <summary>
+ Set a filter keyword to the treeview for loading a subset
+ </summary>
+ <param name="sFlt"></param>
+</member>
+<member name="T:IDEA.DLAFormfactory.DLASupplier">
+ <summary>
+ Class for encapsulating navigation through a recordset
+ can be used for example to fill list boxes etc.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLASupplier.#ctor(System.Boolean)">
+ <summary>
+ Constructor geeft aan dat een datareader gebruikt wordt ipv een dataset
+ </summary>
+ <param name="blnR"></param>
+ <remarks></remarks>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLASupplier.SetStatement(System.String,System.Data.Common.DbConnection)">
+ <summary>
+ Put the sql statement in the form of a dataadapter or datareader
+ with a nice error handling
+ </summary>
+ <param name="strS"></param>
+ <param name="objCon"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:IDEA.DLAFormfactory.FormFactoryGenerator">
+ <summary>
+ Class for generating source code for the forfactory ASP.Net application.
+ (Specific routines not further documented)
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.ProcessEnumerations(System.Data.DataTable,System.Boolean,System.Boolean)">
+ <summary>
+ Process the enumerations and transform it to rows in the codelist table in the formfactory
+ </summary>
+ <param name="EnumDT"></param>
+ <param name="Delete"></param>
+ <param name="Insert"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.ProcessListForm(System.String,System.Boolean,System.Boolean,System.Data.DataTable)">
+ <summary>
+ Create a webform entity in the form factory based on the name
+ First delete all the rows in the table and the child table based on a list name
+ </summary>
+ <param name="Name"></param>
+ <param name="Delete"></param>
+ <param name="Insert"></param>
+ <param name="CommandDT"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.ProcessParentRelation(System.String,System.Data.DataTable,System.Boolean)">
+ <summary>
+ Process parent relation for an added linked table
+ Unfortunately not yety possible with the relevant lookups
+ </summary>
+ <param name="Parent"></param>
+ <param name="RelationDT"></param>
+ <param name="Insert"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.ProcessForm(System.String,System.Boolean,System.Boolean)">
+ <summary>
+ First delete all the rows in the table and the child table based on a entity name
+ </summary>
+ <param name="Name"></param>
+ <param name="Delete"></param>
+ <param name="Insert"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.ProcessMenu(System.String,System.Boolean,System.Boolean)">
+ <summary>
+ Process a menu item in the form factory based on the entity name
+ </summary>
+ <param name="Name"></param>
+ <param name="Delete"></param>
+ <param name="Insert"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.Lookup2Statement(System.String,System.Data.DataTable)">
+ <summary>
+ Transform a lookup statement to a SQL statement in the Formfactory tables
+ </summary>
+ <param name="Name"></param>
+ <param name="CommandDT"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.ProcessControl(System.Data.DataTable,System.Data.DataTable,System.String,System.Boolean)">
+ <summary>
+ Transform attributes in a sql statement used in comboboxes to an sql statement in the form factory tables
+ </summary>
+ <param name="ControlDT"></param>
+ <param name="CommandDT"></param>
+ <param name="Name"></param>
+ <param name="Insert"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.OpenDataBase">
+ <summary>
+ Open the database to the form factory database
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.CloseDataBase">
+ <summary>
+ Close the database to the form factory database
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.Package2SimulatorDataset(EA.Package,System.String)">
+ <summary>
+ Transform the content of a package in the repo to a dataset that is the metamodel for the simulator
+ </summary>
+ <param name="Package"></param>
+ <param name="name"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.ProcessPackage2DataSet(EA.Package,IDEA.SimulatorContainer)">
+ <summary>
+ Transform the content of a package to the dataset for the simulator
+ </summary>
+ <param name="Package"></param>
+ <param name="SimDataSet"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.FormFactoryGenerator.ProcessPackageRelation2DataSet(EA.Package,IDEA.SimulatorContainer)">
+ <summary>
+ Process the content of a package in the repository to the relevant relationships for the simulator
+ </summary>
+ <param name="Package"></param>
+ <param name="SimDataSet"></param>
+ <returns></returns>
+</member>
+<member name="T:IDEA.DLAFormfactory.HTMLTemplates">
+ <summary>
+ Dataset for creating templates for the HTML generator in IDEA
+ Templates are filled with a default model but can be modified
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.HTMLTemplates.#ctor">
+ <summary>
+ Create the entity and create the internal datastructure for the templates
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.HTMLTemplates.AddTemplate(System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Add a template to the set of templates
+ </summary>
+ <param name="name">Name of the template</param>
+ <param name="header"></param>
+ <param name="body"></param>
+ <param name="footer"></param>
+ <param name="sql">SQL statement for the retrieval of data from the repository</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.HTMLTemplates.GetRowByTemplate(System.String)">
+ <summary>
+ Get row from the template datatable by template name
+ </summary>
+ <param name="template"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.HTMLTemplates.FindRowByName(System.String)">
+ <summary>
+ Find a templateelement in the template data structure based on the name
+ </summary>
+ <param name="rowname">name of the template</param>
+ <returns>Return is true if the element is found in the collection</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.HTMLTemplates.GetRowByName(System.String)">
+ <summary>
+ Get the element in the templates based on the name
+ </summary>
+ <param name="name"></param>
+ <returns>the datarow with the content of the template</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.HTMLTemplates.SaveTemplates(System.String)">
+ <summary>
+ Save template definition to a XML file
+ </summary>
+ <param name="file"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.HTMLTemplates.DefaultTemplates">
+ <summary>
+ Define the default templates that can be used as start for your own templates
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.HTMLTemplates.LoadTemplates(System.String)">
+ <summary>
+ Loading the templates from a XML file with definitions
+ </summary>
+ <param name="file"></param>
+ <returns></returns>
+</member>
+<member name="T:IDEA.DLAFormfactory.PDFCreator">
+ <summary>
+ Report generator based on the sql statements used in the report generator screen (package helper)
+ Currently only used in the HTML reporter
+ </summary>
+</member>
+<member name="F:IDEA.DLAFormfactory.PDFCreator._SuppressEmptyNotes">
+ <summary>
+ Define the printing of empty notes
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.PDFCreator.MakePDFReport(System.String)">
+ <summary>
+ Main routine for calling the report generator and process the various elements based on the current package
+ </summary>
+ <param name="FilePath">File to create with the report content</param>
+ <returns>Generation successfull</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.PDFCreator.Package2Report(System.String)">
+ <summary>
+ Process a package to generate a document from it.
+ Please be aware that this is recursive when the checkbox is selected
+ </summary>
+ <param name="PackageId"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.PDFCreator.Element2Report(System.Data.DataTable,System.String)">
+ <summary>
+ Create an element as report output
+ This is currently specific for NS
+ </summary>
+ <param name="oDT"></param>
+ <param name="diagram_name"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.PDFCreator.Elements4Diagram(System.String)">
+ <summary>
+ Retrieve the diagram elements in the defined order (especially for reports that are designed left to right and top to bottom
+ </summary>
+ <param name="Diagram_id"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.PDFCreator.Elements4Package(System.String)">
+ <summary>
+ When you want to specify the order of the elements in a package in a different order, you can define it in the select statement
+ Here the elements will be processed in this order
+ </summary>
+ <param name="Package_id"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.PDFCreator.Diagrams4Package(System.String)">
+ <summary>
+ When you want to process the diagrams in a package in a different order you can define it in the select statement 
+ and process it here
+ </summary>
+ <param name="Package_id"></param>
+ <returns></returns>
+</member>
+<member name="T:IDEA.DLAFormfactory.DLA2EAHelper">
+ <summary>
+ Class for all kinds of helper routines, it is the base for all the other
+ routines and classes in the library
+ When possible shared functions are used so this functions like a function library
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.PackageTree2String(EA.Package)">
+ <summary>
+ Recursively build a list of package ids from the package tree under a rootpackage
+ </summary>
+ <param name="oPackage">Rootpackage for constructing a list of package ids</param>
+ <returns>List of packageids in een comma separated text string</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.SelectedGridRows2DataTable(System.Windows.Forms.DataGridView)">
+ <summary>
+ Transform a list of selected rows in a datagrid to a datatable
+ </summary>
+ <param name="DG">DataGrid</param>
+ <returns>Datatable with only selected items as rows</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.GetRepository">
+ <summary>
+ Get an instance of the repository the IDEA addon is currently connected to
+ </summary>
+ <returns>Curenty Open Repository object</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.InitCap(System.String)">
+ <summary>
+ Transform a name to a name with an initial capital character
+ </summary>
+ <param name="val">Value to transform</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.SetProgressBarInit(System.Windows.Forms.ProgressBar,System.Int32)">
+ <summary>
+ Initialize the progressbar with a min and max value
+ </summary>
+ <param name="Bar"></param>
+ <param name="Count">Max value</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.Text2ClipBoard(System.String)">
+ <summary>
+ Insert a text to the windows clipboard
+ </summary>
+ <param name="Text">Text to add to clipboard</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.SQL2Log(System.String,System.String)">
+ <summary>
+ Write a SQL statement to the logfile
+ </summary>
+ <param name="strComments"></param>
+ <param name="strError"></param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.Error2Log(System.Exception)">
+ <summary>
+ Write an error message to the error log
+ </summary>
+ <param name="ex">Exception</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.DebugAssertion(System.String)">
+ <summary>
+ Make a popup of a specific message
+ </summary>
+ <param name="Message">Message to display</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.SQL2DataTable(System.String,EA.Repository)">
+ <summary>
+ Transform a selectstatement to a datatable object
+ </summary>
+ <param name="strStatement">SQL selectstatement</param>
+ <param name="objRepo">Repository is neccessary for executing the command to an EA repository </param>
+ <returns>A filled datatable</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.Error2Log(System.String)">
+ <summary>
+ Error message to the error logfile
+ </summary>
+ <param name="msg">The message to add to the log file</param>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.ConvertStereotype2Type(System.String)">
+ <summary>
+ Convert a stereotype to an objecttype for creating an element of the right type for the stereotype
+ </summary>
+ <param name="stereotype"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.DefaultTaggedValues(EA.Element,EA.Repository)">
+ <summary>
+ Create a list of tagged values for the element based on the tagged value defined in the repository
+ This makes it possible to create the tagged values based on this routine
+ It makes use of a config setting that you can define to limit the tagged values created
+ </summary>
+ <param name="Element"></param>
+ <param name="Repository"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.ExportDiagram(System.Int32,System.Boolean,System.Boolean,System.Boolean)">
+ <summary>
+ Export a diagram to a file based on the definition in the idea settings artifact
+ </summary>
+ <param name="diagram_id">Diagram id for opening and closing the diagram</param>
+ <param name="blnOpen">Check if the diagram is already open</param>
+ <param name="blnRecentModified">Check if the file is recently modified to prevent an extra write</param>
+ <param name="blnBatch">Batch export to open a diagram, check for existance and close the diagram after the batch export</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.Diagrams2WPP(EA.Package)">
+ <summary>
+ Export a diagram in Sparx to a png file so it can be retrieved via WPP
+ </summary>
+ <param name="oPackage">Package from which the diagrams are exported</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.LinkedDocument2WPP(EA.Package)">
+ <summary>
+ Export a diagram in Sparx to a png file so it can be retrieved via WPP
+ </summary>
+ <param name="oPackage">Package from which the diagrams are exported</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.DefaultTaggedValues(EA.Attribute,EA.Repository)">
+ <summary>
+ Create a list of tagged values for the attribute based on the tagged value defined in the repository
+ This makes it possible to create the tagged values based on this routine
+ It makes use of a config setting that you can define to limit the tagged values created
+ </summary>
+ <param name="Attribute"></param>
+ <param name="Repository"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.DefaultTaggedValues(EA.Connector,EA.Repository)">
+ <summary>
+ Create a list of tagged values for the attribute based on the tagged value defined in the repository
+ This makes it possible to create the tagged values based on this routine
+ It makes use of a config setting that you can define to limit the tagged values created
+ </summary>
+ <param name="Connector"></param>
+ <param name="Repository"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.String2File(System.String,System.String,System.IO.FileMode)">
+ <summary>
+ Write a string to a textfile
+ </summary>
+ <param name="text">Text to write</param>
+ <param name="strPath">Path of the file</param>
+ <returns>Success or not</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.Table2CSV(System.Data.DataTable)">
+ <summary>
+ Transform a datatable to a CSV text
+ </summary>
+ <param name="dTable">Datatable to transform</param>
+ <returns>CSV string</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.ExecuteModifySQL(System.String)">
+ <summary>
+ Execute a modify statement (insert update delete etc)
+ </summary>
+ <param name="SQL">SQL statement to execute</param>
+ <returns>Success or not</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.IsUserGroupMember(EA.Repository,System.String)">
+ <summary>
+ Is current login user member of a security group
+ </summary>
+ <param name="Repo">Currenty active repository</param>
+ <param name="Group">Security group name</param>
+ <returns>True when login is groupmember</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.CheckUniqueElement(System.String,System.String,EA.Repository)">
+ <summary>
+ Check if an element is unique or not based on the name and stereotype
+ </summary>
+ <param name="strName">Name of the element</param>
+ <param name="strType">Stereotype of the element</param>
+ <param name="oRepo">Repository to run the query in</param>
+ <returns>True for unique</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.SQL2DataSet(System.String,EA.Repository)">
+ <summary>
+ Transform a statement to a dataset
+ Preferably use the sql2datatable command
+ </summary>
+ <param name="strStatement"></param>
+ <param name="objRepo"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.SQLForEAP(System.String,EA.Repository)">
+ <summary>
+ Transform a statement and make it relevant for an eap file (is an access sql statement)
+ </summary>
+ <param name="strStatement">SQL statement to process</param>
+ <param name="objRepo">Repository currently active</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.EAString2DataSet(System.String)">
+ <summary>
+ Transform a Sparx dataset string to a usable dataset in VB
+ </summary>
+ <param name="strVal"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.EAString2DataTable(System.String)">
+ <summary>
+ Transform an sql resultset string to a datatable
+ </summary>
+ <param name="strVal">XML string resultset from the sql statement transformed to a datatable</param>
+ <returns>Datatable filled with datarows</returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.DLA2EAHelper.ReadCsvFile(System.String)">
+ <summary>
+ Read a csv file and transform it to a datatable
+ </summary>
+ <param name="cFile"></param>
+ <returns></returns>
+</member>
+<member name="T:IDEA.DLAFormfactory.WasteBin">
+ <summary>
+ Class for handling wastebin routines when a user deletes an item from the repository
+ </summary>
+</member>
+<member name="M:IDEA.DLAFormfactory.WasteBin.WasteBinElement(EA.Repository,System.String)">
+ <summary>
+ Copy an element to the wastebin before we delete it from the repository
+ </summary>
+ <param name="Repository"></param>
+ <param name="strEntityId"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.WasteBin.DeleteFromWasteBin(EA.Repository)">
+ <summary>
+ Can the user delete an element from the wastebin when the user is authorized
+ </summary>
+ <param name="Repository"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.WasteBin.WasteBinPackage(EA.Repository,System.String)">
+ <summary>
+ Delete a package but copy a clone before the delete to the wastebin package
+ </summary>
+ <param name="Repository"></param>
+ <param name="strEntityId"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLAFormfactory.WasteBin.GetWasteBinPackage_id">
+ <summary>
+ retrieve the package id from the settings
+ when the id is -999 the wastebin package is not defined
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:IDEA.DLANormalizeDataTable">
+ <summary>
+ Class for normalizing a datatable imported from an excel sheet
+ </summary>
+</member>
+<member name="P:IDEA.DLANormalizeDataTable.DataTable">
+ <summary>
+ connection to the datatable 
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.#ctor">
+ <summary>
+ Create a result datatable for doing a proposal for normalization and lookup definitions
+ </summary>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.AddResult(System.String,System.String,System.Int32)">
+ <summary>
+ Add a row to the result datatable with a suggestion for a normalization/enumeration
+ </summary>
+ <param name="Type"></param>
+ <param name="Name"></param>
+ <param name="Count"></param>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.CheckExist(System.Collections.Generic.List{System.String})">
+ <summary>
+ Check weather a list of fieldnames exists in the normalization definities 
+ </summary>
+ <param name="Fields"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.EvaluateDataTable(System.Windows.Forms.ProgressBar)">
+ <summary>
+ Process the fieldnames for enumarations and various fieldcombinations for normalization
+ </summary>
+ <param name="Bar"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.EvaluateCombination(System.Collections.Generic.List{System.String},System.Int32)">
+ <summary>
+ Evaluate if a combination of fields is a normalization combination
+ </summary>
+ <param name="Fields"></param>
+ <param name="FieldPosWalker"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.FieldsToString(System.Collections.Generic.List{System.String})">
+ <summary>
+ Transform a list of fieldnames to a comma separated text string
+ </summary>
+ <param name="Fields"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.EvaluateEnumeration(System.Collections.Generic.List{System.String})">
+ <summary>
+ Evaluate if a field is an enumeration
+ </summary>
+ <param name="Fields"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.CreateEnumerations">
+ <summary>
+ Create an enumeration in the repository based on the generated result set of the normalizer
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.CreateFieldCombinations">
+ <summary>
+ Create a normalized table in the repository based on the normalization results
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.CreateRootElement(System.String)">
+ <summary>
+ Create a root class element (mostly based on the excel sheet name in the normalizer
+ </summary>
+ <param name="Name"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.CreateRootAttributes">
+ <summary>
+ Create the attributes in the  root element 
+ (the startup object element for the normalizer)
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.DLANormalizeDataTable.GetRepositoryConnector">
+ <summary>
+ Get a connection to the active repository for further processing of the normalizer
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.FrmArchiMaid3.LoadImageList">
+ <summary>
+ Load the imagelist of the archimate symbols with a trick from the resources of the addon
+ </summary>
+</member>
+<member name="M:IDEA.FrmArchiMaid3.LoadListView">
+ <summary>
+ Load the listview of selected archimate element stereotypes for the search window
+ </summary>
+</member>
+<member name="M:IDEA.FrmArchiMaid3.DoSearch">
+ <summary>
+ Construct the sql statement for the search based on the various controls and selected values in the aid screen
+ </summary>
+</member>
+<member name="M:IDEA.FrmArchiMaid3.ToolStripButtonAddDiagram_Click(System.Object,System.EventArgs)">
+ <summary>
+ Add the selected elements in the grid to the currently active diagram
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.FrmArchitectureWizard_Load(System.Object,System.EventArgs)">
+ <summary>
+ Load the wizard form an set the relevant comboboxes etc with data from the select statements
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.ProcessButtonNext(System.String)">
+ <summary>
+ Handle the activities for the tabpage selected
+ Loading the next tabages and creating a package etc
+ </summary>
+ <param name="Tabname"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.ProcessWizard">
+ <summary>
+ Process the selected options in the wizard. Called via the Finish button at the end of the wizard
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.CreateConnector(EA.Element,EA.Element,System.String)">
+ <summary>
+ Create a connector between two elements including the relevant stereotype
+ You have to handle the direction yourself by selecting the source and targetg
+ </summary>
+ <param name="Source"></param>
+ <param name="Target"></param>
+ <param name="StereoType"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.DeleteUnusedPatterns(System.String,System.String)">
+ <summary>
+ Routine to delete the unused patterns from the newly created diagrams in the project package
+ </summary>
+ <param name="unusedpatternids"></param>
+ <param name="diagramid"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.CreateDiagramObject(EA.Element,EA.Diagram,System.Int32)">
+ <summary>
+ Create a diagram object for the source and the target elements on the diagram if they do not yet exist
+ </summary>
+ <param name="Source"></param>
+ <param name="objDiagram"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.ButtonNext_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handle the click event for the next button in the wizard
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.HandleButtons(System.Boolean)">
+ <summary>
+ Take care of the previous and next button for the wizard
+ </summary>
+ <param name="blnNext"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.SearchReplace">
+ <summary>
+ Search and replace parts of the text in a package. 
+ Works both for elements and diagrams
+ currently not for connectors
+ </summary>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.ButtonPrevious_Click(System.Object,System.EventArgs)">
+ <summary>
+ Process the activities after the previous button is pressed
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.ButtonFinish_Click(System.Object,System.EventArgs)">
+ <summary>
+ Process clicking the finish button
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.LoadPrecedingGrid">
+ <summary>
+ Load the grid with the elements of the preceding modules available in the repository
+ </summary>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.CheckBoxIncludeWerkmap_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handling of the include werkmap function to load the grid with extra elements
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmArchitectureWizard.LoadTemplatesCombo">
+ <summary>
+ loading of the combobox with with templates of processing steps based on the sample diagrams
+ </summary>
+</member>
+<member name="T:IDEA.FrmElementDeduplicator">
+ <summary>
+ Deduplication of an element with a number of subscreens in the tabpage to
+ display the differences. This is the screen generated by Visual Studio
+ </summary>
+</member>
+<member name="T:IDEA.DeduplCompareItem">
+ <summary>
+ Class for comparing the elements in the deduplicator routine, it has two types
+ of compare properties, one for the name and one for the total of an element.
+ </summary>
+</member>
+<member name="F:IDEA.DeduplCompareItem.Total">
+ <summary>
+ Property for comparing the total of two elements of the same EA type.
+ </summary>
+</member>
+<member name="F:IDEA.DeduplCompareItem.Name">
+ <summary>
+ Name element for doing the compare. The difference between total and name is an
+ update or an insert in the deduplicator screen.
+ </summary>
+</member>
+<member name="M:IDEA.FrmIdeaDiagram.ButtonMatchNames_Click(System.Object,System.EventArgs)">
+ <summary>
+ Routine for matching attributes based on the name
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmImportExcel.AddCodelijst(System.String,System.String,System.String)">
+ <summary>
+ Voeg een codelijst item toe zodat die gebruikt kunnen worden in de grids om het werk van de beheerder iets makkelijker te maken
+ </summary>
+ <param name="Name"></param>
+ <param name="Search"></param>
+ <param name="Description"></param>
+</member>
+<member name="M:IDEA.FrmSettings.FrmSettings_Load(System.Object,System.EventArgs)">
+ <summary>
+ Load various elements in the settings window, especially the two grids with settings data for the IDEA addon
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmSettings.LoadUserSettings">
+ <summary>
+ Load all user settings from the user config setttings to the form controls
+ </summary>
+</member>
+<member name="M:IDEA.FrmSettings.SaveUserSettings">
+ <summary>
+ Save the defied settings in the form controls to the user settings in the appdat section of the computer
+ </summary>
+</member>
+<member name="M:IDEA.FrmSettings.FrmSettings_Closing(System.Object,System.ComponentModel.CancelEventArgs)">
+ <summary>
+ Save the settings in this screen to various sections for example the user settings to the app data
+ For the system settings there are two options one is to an artifact in the database named IDEAconfig and the second is to the user data 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmUniqueElement.SetElement(EA.Element,EA.Repository)">
+ <summary>
+ Set the element and do a check if the element is unique
+ </summary>
+ <param name="oElement"></param>
+ <param name="oRepo"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.FrmUniqueElement.ColorDiagramObject(System.Int32)">
+ <summary>
+ Color a duplicate element background to read to give a warning color
+ </summary>
+ <param name="color"></param>
+</member>
+<member name="M:IDEA.FrmUniqueElement.ButtonDeduplicate_Click(System.Object,System.EventArgs)">
+ <summary>
+ Execute a deduplication action in the current diagram
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmUniqueElement.ButtonFindOriginal_Click(System.Object,System.EventArgs)">
+ <summary>
+ Find the original element in the browser
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.FrmUniqueElement.ButtonFindDuplicate_Click(System.Object,System.EventArgs)">
+ <summary>
+ Find the duplicate element in the browser
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="T:IDEA.IDEA.IDEAAddIn">
+ <summary>
+ Connector class for the menu options etcetera for the AddOn the functions are called from the EA application
+ Here all the connection points from the EA application are defined
+ </summary>
+ 
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_OnPreDeleteElement(EA.Repository,EA.EventProperties)">
+ <summary>
+ When an element is deleted first check for the wastebin function in IDEA
+ </summary>
+ <param name="Repository"></param>
+ <param name="Info"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_OnPreDeletePackage(EA.Repository,EA.EventProperties)">
+ <summary>
+ When a package is deleted first check for the wastebin function in IDEA
+ </summary>
+ <param name="Repository"></param>
+ <param name="Info"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_OnPostNewConnector(EA.Repository,EA.EventProperties)">
+ <summary>
+ Give a message when someone creates a connector to a deleted or obsolete element
+ Specific for the NS
+ </summary>
+ <param name="Repository"></param>
+ <param name="Info"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_OnPostOpenDiagram(EA.Repository,System.Int32)">
+ <summary>
+ Check for the diagram helpers to see if they need to be opened
+ See ArchimAid and DatAid
+ </summary>
+ <param name="Repository"></param>
+ <param name="DiagramID"></param>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_OnPostCloseDiagram(EA.Repository,System.Int32)">
+ <summary>
+ Save the diagram direct to a file
+ </summary>
+ <param name="Repository"></param>
+ <param name="DiagramID"></param>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.IsProjectOpen(EA.Repository)">
+ <summary>
+ true if a project is opened in EA
+ Based on this the menu is shown
+ </summary>
+ <param name="Repository"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_GetMenuState(EA.Repository,System.String,System.String,System.String,System.Boolean@,System.Boolean@)">
+ <summary>
+ check of the IDEA menu needs to be enabled (when a project is opened) or not
+ </summary>
+ <param name="Repository"></param>
+ <param name="Location"></param>
+ <param name="MenuName"></param>
+ <param name="ItemName"></param>
+ <param name="IsEnabled"></param>
+ <param name="IsChecked"></param>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.OpenFormForElement(EA.Repository,EA.Element)">
+ <summary>
+ Activate the specific helper window based on the stereotype of the active element
+ </summary>
+ <param name="Repository"></param>
+ <param name="Element"></param>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_GetMenuItems(EA.Repository,System.String,System.String)">
+ <summary>
+ Create the menu's for the IDEA AddOn menu, the explorer and the diagram canvas
+ the array of options is dynamically created based on the user settings
+ </summary>
+ <param name="Repository"></param>
+ <param name="Location"></param>
+ <param name="MenuName"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_MenuClick(EA.Repository,System.String,System.String,System.String)">
+ <summary>
+ Handle the click of a menu item and call the relevant underlying routine
+ </summary>
+ <param name="Repository"></param>
+ <param name="Location"></param>
+ <param name="MenuName"></param>
+ <param name="ItemName"></param>
+</member>
+<member name="M:IDEA.IDEA.IDEAAddIn.EA_OnNotifyContextItemModified(EA.Repository,System.String,EA.ObjectType)">
+ <summary>
+ Call the deduplicator check screen when this is activated
+ </summary>
+ <param name="Repository"></param>
+ <param name="sGuid"></param>
+ <param name="oType"></param>
+</member>
+<member name="T:IDEA.IDEADataTypes">
+ <summary>
+ Class for a list of datatypes for the conversion from one layer in the other in
+ the data model (LDM - TDM)
+ </summary>
+</member>
+<member name="F:IDEA.IDEADataTypes.VBNet">
+ <summary>
+ Class for doing transformations of the datatypes for the IDEA routines to go
+ from one datamodeling layer to the other.
+ </summary>
+</member>
+<member name="T:IDEA.IDEAGenerator">
+ <summary>
+ Generating elements from one layer to the other (CDM - LDM - FDM) These are
+ complex transformations tha tcan be modified when relevant. Important is to
+ consider that these routines are based on the IDEA screens. In the scripts in
+ the sample repository there are differences in implementation.
+ </summary>
+</member>
+<member name="M:IDEA.IDEAGenerator.CreateConnector(EA.Element,EA.Element,System.String)">
+ <summary>
+ create a connector in the EA repository
+ </summary>
+ <param name="Source">Source object</param>
+ <param name="Target">Target Object</param>
+ <param name="Type">Type of connector</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEAGenerator.CopyClass2UI(EA.Element,System.String,System.Boolean)">
+ <summary>
+ Create a sample UI of a Class element
+ </summary>
+ <param name="objEle"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEAGenerator.RefactorAssociation(EA.Element,EA.Element,System.String)">
+ <summary>
+ Refactor an asssociation and move it together with an attribute to a new class
+ </summary>
+ <param name="oldElement"></param>
+ <param name="newElement"></param>
+ <param name="AttributeID"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEAGenerator.CopyAttribute(EA.Element,EA.Element,System.String,System.String,System.Boolean)">
+ <summary>
+ Copy an attribute from one class to antother
+ </summary>
+ <param name="objSource"></param>
+ <param name="objTarget"></param>
+ <param name="strType"></param>
+ <param name="strAttributeId"></param>
+ <param name="blnCreateAssociation"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEAGenerator.CopyAttribute(EA.Element,EA.Element,System.String,System.String,System.Boolean,System.String)">
+ <summary>
+ Copy an attribute from one class to antother
+ </summary>
+ <param name="objSource"></param>
+ <param name="objTarget"></param>
+ <param name="strType"></param>
+ <param name="strAttributeId"></param>
+ <param name="blnCreateAssociation"></param>
+ <param name="strDirection"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEAGenerator.CreateConnectorForAttribute(EA.Attribute,EA.Attribute)">
+ <summary>
+ Create a connector (mapping for an attribute)
+ </summary>
+ <param name="objSource"></param>
+ <param name="objTarget"></param>
+</member>
+<member name="M:IDEA.IDEAGenerator.CreatePrimaryKey(EA.Element,EA.Attribute)">
+ <summary>
+ Create a primary key column for the transformation to the database structure
+ </summary>
+ <param name="Table"></param>
+ <param name="Column"></param>
+</member>
+<member name="M:IDEA.IDEAGenerator.CreateConnectorForAttribute(EA.Attribute,EA.Attribute,System.String,System.Boolean,System.String,EA.LinkLineStyle)">
+ <summary>
+ Create a connector (mapping for an attribute)
+ </summary>
+ <param name="objSource"></param>
+ <param name="objTarget"></param>
+ <param name="strDirection"></param>
+ <param name="blnName"></param>
+ <param name="strStereotype"></param>
+ <param name="linestyle"></param>
+</member>
+<member name="M:IDEA.IDEAGenerator.Attribute2Column(EA.Attribute,EA.Attribute,EA.Element,EA.Element)">
+ <summary>
+ Routine for creating columns in a PDM from a class attribute in a LDM
+ </summary>
+ <param name="objAttribute"></param>
+ <param name="objTargetAttribute"></param>
+ <param name="objSource"></param>
+ <param name="objTarget"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEAGenerator.CreateElement(System.String,System.String,System.Int32)">
+ <summary>
+ Create an element in the repository based on the name and the type
+ </summary>
+ <param name="strName"></param>
+ <param name="strType"></param>
+ <param name="intPackage">Package id where to add the newly created element</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEAGenerator.CreateTraceAssociation(EA.Element,EA.Element)">
+ <summary>
+ Create a trace association between two elements in different XDM layers
+ </summary>
+ <param name="objEle"></param>
+ <param name="objNew"></param>
+</member>
+<member name="M:IDEA.IDEAGenerator.CopyAssociation(EA.Connector,EA.Element,EA.Element,System.Boolean)">
+ <summary>
+ Copy an association
+ </summary>
+ <param name="oldConnection"></param>
+ <param name="objEle"></param>
+ <param name="objNew"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEAGenerator.RefactorAttribute(System.String,System.String)">
+ <summary>
+ Move an attribute from one element to the other for refactoring
+ </summary>
+ <param name="attribute_id"></param>
+ <param name="target_id"></param>
+</member>
+<member name="T:IDEA.IDEADefinitions">
+ <summary>
+ Class for processing definitions, such as connections, queries, etc.
+ Is done based on a Dataset that is stored via XML in the config file
+ </summary>
+</member>
+<member name="M:IDEA.IDEADefinitions.CheckVersion">
+ <summary>
+ Check for version number when the version nummber in the settings is higher you can not use the AddOn
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.LoadTableDefinitions">
+ <summary>
+ Loading the metamodel of the definitions in the form of a dataset with datatables
+ </summary>
+</member>
+<member name="M:IDEA.IDEADefinitions.SaveSettings">
+ <summary>
+ Save the definitions to the users setting or to an artifact (IDEAConfig) in the current repository
+ </summary>
+ <param name="Settings"></param>
+ <param name="statements"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.SaveTranslations">
+ <summary>
+ Save the translations datatable to either a setting or to a tagged value of the ideaconfig artifact
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.SaveDataAnalyser">
+ <summary>
+ Sava dataanalyzer definition to the IDEA datadefinitions
+ </summary>
+ <returns>Success or not</returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.LoadFromSettings(EA.Repository)">
+ <summary>
+ Load from settings this can be an IDEASettings artifact in the repository or via the user settings
+ </summary>
+</member>
+<member name="M:IDEA.IDEADefinitions.LoadDataSetXML(System.String,System.String)">
+ <summary>
+ Loading the dataset with definitions from the configuration file f from the fill of the result tab.
+ If no material is found, a few sample items will be made
+ </summary>
+ <param name="xmlstring">Dataset definities uit de config file</param>
+ <param name="importstring">Dataset afkomstig vanuit het result scherm</param>
+</member>
+<member name="M:IDEA.IDEADefinitions.GetFilteredTable(System.String,System.String)">
+ <summary>
+ Search in a dataset collection for a filter, activate it and return the filtered subset
+ </summary>
+ <param name="table">Name of the datatable to retrieve data from</param>
+ <param name="filter">Filterstring in the datatable</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.GetSettingValue(System.String)">
+ <summary>
+ utility routine to get the value of a configitem based on its name
+ If the name is not found, an empty string is returned
+ </summary>
+ <param name="name">Name of configuration item</param>
+ <returns>Value of the configuration item</returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.GetTable(System.String)">
+ <summary>
+ Retrieve datatable based on the configuration datatable name
+ </summary>
+ <param name="table"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.AddInitialSetting(System.String,System.String,System.String,System.String)">
+ <summary>
+ Create the initial settings for the IDEA AddOn so later the user can modify it via the settings window
+ </summary>
+ <param name="Name"></param>
+ <param name="Value"></param>
+ <param name="Type"></param>
+</member>
+<member name="M:IDEA.IDEADefinitions.AddInitialSQL(System.String,System.String,System.String,System.String)">
+ <summary>
+ Create an initial SQL statement for the diagram helper screen
+ </summary>
+ <param name="Name"></param>
+ <param name="Type"></param>
+ <param name="Statement"></param>
+ <param name="Template"></param>
+</member>
+<member name="M:IDEA.IDEADefinitions.AddInitialArchiMaid(System.String,System.String,System.String,System.String)">
+ <summary>
+ Add initial values of the datatable with archimate elements for the new archimaid helper
+ </summary>
+ <param name="StereoType"></param>
+ <param name="Layer"></param>
+ <param name="Column"></param>
+</member>
+<member name="M:IDEA.IDEADefinitions.FormControls2TransLations(System.String,System.Windows.Forms.Control.ControlCollection,System.Boolean)">
+ <summary>
+ Create a translations table based on the controls in a form. Please note the recursive approach
+ </summary>
+ <param name="FormName"></param>
+ <param name="col"></param>
+ <param name="Check"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.Translations2FormControls(System.String,System.Windows.Forms.Control.ControlCollection,System.Boolean)">
+ <summary>
+ Read the translations datatable and transfer it to the control labels in the form based on the name. Please note the recursive approach
+ </summary>
+ <param name="FormName"></param>
+ <param name="col"></param>
+ <param name="Check"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.IDEADefinitions.AddTransLation(System.String,System.String,System.String,System.String)">
+ <summary>
+ Add a translation for a form and control to the datatable of translations
+ </summary>
+ <param name="FormName"></param>
+ <param name="ControlName"></param>
+ <param name="Translation"></param>
+ <param name="Documentation"></param>
+</member>
+<member name="M:IDEA.IDEADefinitions.AddSetting(System.String,System.String,System.String,System.String)">
+ <summary>
+ Add a setting to the table settings
+ </summary>
+ <param name="Name"></param>
+ <param name="Value"></param>
+ <param name="Type"></param>
+</member>
+<member name="M:IDEA.IDEADefinitions.AddStatement(System.String,System.String,System.String,System.String)">
+ <summary>
+ Add an item to the datatable with statements
+ </summary>
+ <param name="Name"></param>
+ <param name="Type"></param>
+ <param name="Statement"></param>
+ <param name="Template"></param>
+</member>
+<member name="M:IDEA.IDEADefinitions.AddArchiMaid(System.String,System.String,System.String,System.String)">
+ <summary>
+ Add an archimate element to the datatable for the archimaid
+ </summary>
+ <param name="StereoType"></param>
+ <param name="Layer"></param>
+ <param name="Column"></param>
+</member>
+<member name="T:IDEA.ReleaseContainer">
+ <summary>
+ Container class for storing release manager steps for transferring XML
+ specifications from one environment to the other.
+ </summary>
+</member>
+<member name="M:IDEA.ReleaseContainer.AddReleaseItem(System.String,System.String,System.String,System.String,System.Boolean,System.String)">
+ <summary>
+ Add a release item to the release table
+ </summary>
+ <param name="PackageGUID"></param>
+ <param name="BaselineGuid"></param>
+ <param name="FolderName"></param>
+ <param name="PackageName"></param>
+ <param name="RestoreBaseline"></param>
+ <param name="Version"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.ReleaseContainer.ClearContainer">
+ <summary>
+ delete all the release table items
+ </summary>
+</member>
+<member name="T:IDEA.ReleaseManager">
+ <summary>
+ Bring the data of a release from one environment to the other in a DTAP
+ implementation
+ </summary>
+</member>
+<member name="P:IDEA.ReleaseManager.Repository">
+ <summary>
+ Reference to the repository class of the running EA instance
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.ReleaseManager.MakePackageBaseline">
+ <summary>
+ Create baseline for the packages defined in the releasetable
+ </summary>
+</member>
+<member name="M:IDEA.ReleaseManager.AddMessage(System.String)">
+ <summary>
+ Write a message to the session output screen for the release manager activities
+ </summary>
+ <param name="strMessage"></param>
+</member>
+<member name="M:IDEA.ReleaseManager.RestorePackageBaseline">
+ <summary>
+ Restore the packages from a baseline based on the table of release items
+ </summary>
+</member>
+<member name="M:IDEA.ReleaseManager.ExportPackageXMI">
+ <summary>
+ Export the package content to an xmi export file with the guid of the package
+ </summary>
+</member>
+<member name="M:IDEA.ReleaseManager.ImportPackageXMI">
+ <summary>
+ Import the content of a package from an XMI file
+ </summary>
+</member>
+<member name="M:IDEA.ReleaseManager.Elements2Team">
+ <summary>
+ Bring the elements together in a package of the team
+ </summary>
+</member>
+<member name="M:IDEA.ReleaseManager.Elements2OriginalPackage">
+ <summary>
+ Return the elements in a package from the package to the original location
+ </summary>
+</member>
+<member name="T:IDEA.HTMLPublicator">
+ <summary>
+ Class for the HTML generator. Various functions to generate HTML pages and
+ snippets from the elements in the repository
+ </summary>
+ 
+</member>
+<member name="P:IDEA.HTMLPublicator.CreatePDF">
+ <summary>
+ Create a pdf of the packages that are processed and contain diagrams
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.CheckAndAddItem(System.Data.DataRow,System.String)">
+ <summary>
+ Check if a diagram is already processed by the publisher and if not add it to the list of ready to process diagrams
+ </summary>
+ <param name="oRow">Row met data</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.CheckAndRemoveDiagram(System.String)">
+ <summary>
+ Check if a diagram is processed and if so remove it from the list of to be processed diagrams
+ </summary>
+ <param name="ID"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.CheckAndRemovePackage(System.String)">
+ <summary>
+ Remove a package from the list of packages based on the id
+ </summary>
+ <param name="ID"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.CheckAndRemoveElement(System.String)">
+ <summary>
+ Remove a package from the list of elements based on the id
+ </summary>
+ <param name="ID"></param>
+ <returns>Success</returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.ReadHTMLTemplate(System.String)">
+ <summary>
+ Read the template from a template file on the disk
+ </summary>
+ <param name="sTemplateFile">Name of the template file</param>
+</member>
+<member name="M:IDEA.HTMLPublicator.MaakURL(System.String,System.String)">
+ <summary>
+ Create a html href tag from the filename and the title
+ </summary>
+ <param name="sTitel">title of the hyperlink</param>
+ <param name="sURL">url to link to</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.Export2HTML(System.String,System.String)">
+ <summary>
+ Write the processed string to a file and do some processing for the tags
+ </summary>
+ <param name="sNaam">Name of the file</param>
+ <param name="sContent">html content</param>
+</member>
+<member name="M:IDEA.HTMLPublicator.FullFileName(System.String)">
+ <summary>
+ Make a full file name of the html file including the path and the extension
+ </summary>
+ <param name="Path"></param>
+ <param name="sNaam"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.PubliceerRootPackage(EA.Package)">
+ <summary>
+ Publish the package content to Html pages
+ </summary>
+ <param name="oPkg"></param>
+</member>
+<member name="M:IDEA.HTMLPublicator.PubliceerSubPackages">
+ <summary>
+ Publish the subpackages of a package
+ </summary>
+</member>
+<member name="M:IDEA.HTMLPublicator.PubliceerHTMLPagina">
+ <summary>
+ Process all the elements etc based on the collection of html templates
+ </summary>
+</member>
+<member name="M:IDEA.HTMLPublicator.PubliceerDiagrams">
+ <summary>
+ Publish  all the diagrams based on an array of found diagrams
+ </summary>
+</member>
+<member name="M:IDEA.HTMLPublicator.PubliceerElements">
+ <summary>
+ Publish all the elements found based on an array of found elements
+ </summary>
+</member>
+<member name="M:IDEA.HTMLPublicator.SaveDiagramImage(System.String,System.Int32)">
+ <summary>
+ Write the diagram to disk as a png file on a standardized location
+ </summary>
+</member>
+<member name="M:IDEA.HTMLPublicator.MaakSiteMapURL(System.String,System.String)">
+ <summary>
+ Create a sitemap url for a package or diagram. With diagram you can define a tree like structure
+ </summary>
+ <param name="sURL"></param>
+ <param name="bNiveau"></param>
+</member>
+<member name="M:IDEA.HTMLPublicator.ProcessSQL2Template(System.String@,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Process sql statement for various templates for an element
+ </summary>
+ <param name="sNaam"></param>
+ <param name="sSql"></param>
+ <param name="sHeader"></param>
+ <param name="sBody"></param>
+ <param name="sFooter"></param>
+ <param name="id"></param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.PubliceerPackage(EA.Package)">
+ <summary>
+ Publish a package to html
+ </summary>
+ <param name="oPkg">Object of the package to process</param>
+</member>
+<member name="M:IDEA.HTMLPublicator.PublishSiteMap">
+ <summary>
+ Write the constructed sitemap to a file 
+ </summary>
+</member>
+<member name="M:IDEA.HTMLPublicator.Element2Map(EA.Element,EA.DiagramObject,System.Double,System.Double,System.Double)">
+ <summary>
+ Convert an element and a diagramobject in a diagram to a map tag in a html construction. In here a number of calculations and transformations are needed
+ </summary>
+ <param name="oElement">Element to process</param>
+ <param name="oDO">Data object to process (read the coordinates)</param>
+ <param name="MinX">Min X position of alle the elements</param>
+ <param name="MinY">Min Y position of alle the elements</param>
+ <param name="MaxX">Max X position of alle the elements when resizing is needed</param>
+ <returns></returns>
+</member>
+<member name="M:IDEA.HTMLPublicator.MakeDiagramMap(EA.Diagram)">
+ <summary>
+ Publish a diagram and all the elements to a html page
+ </summary>
+ <param name="oDgm"></param>
+</member>
+<member name="M:IDEA.HTMLPublicator.MaakDocumentVoorPackage(EA.Package,System.String)">
+ <summary>
+ Create a document for the package content
+ </summary>
+ <param name="oPkg">Package object</param>
+</member>
+<member name="M:IDEA.HTMLPublicator.DeleteFilesInFolder">
+ <summary>
+ delete all the files available in the publication folder
+ </summary>
+</member>
+<member name="M:IDEA.HTMLPublicator.Generate(EA.Package)">
+ <summary>
+ Generate the documentation based on the first package
+ </summary>
+ <param name="oPackage">The rootpackage to start processing</param>
+</member>
+<member name="T:IDEA.SimulatorContainer">
+ <summary>
+ Class added for inheritance and encapsulation of the routines
+ </summary>
+</member>
+<member name="M:IDEA.WndWelcome.ButtonReleaseManager_Click(System.Object,System.EventArgs)">
+ <summary>
+ Open the releasemanager window
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.WndWelcome.ButtonImportNorm_Click(System.Object,System.EventArgs)">
+ <summary>
+ Import screen for importing and normalizing data from an excel file
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.WndWelcome.ButtonSettings_Click(System.Object,System.EventArgs)">
+ <summary>
+ Open the settings window of the IDEA AddOn
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.WndWelcome.ButtonDiagram2WPP_Click(System.Object,System.EventArgs)">
+ <summary>
+ Export all the diagrams to a file in a directory. There is an extra check for if the file does already exist before writing it to a file. This is necessary for a gpf message from internal sparx
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:IDEA.WndWelcome.ButtonOrphan_Click(System.Object,System.EventArgs)">
+ <summary>
+ Open the window for displaying the orphans window for diagram and relation orphans
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E1B1783-E073-4D51-9CA3-F73F02BAC44B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>IDEA</RootNamespace>
+    <AssemblyName>IDEA</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IDEA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IDEA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>TEA.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.EA">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Sparx Systems\EA\Interop.EA.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Data.ConnectionUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=f4ca07f51760da93, processorArchitecture=MSIL">
+      <HintPath>..\packages\DataConnectionDialog.1.2\Lib\Microsoft.Data.ConnectionUI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.ConnectionUI.Dialog, Version=0.0.0.0, Culture=neutral, PublicKeyToken=f4ca07f51760da93, processorArchitecture=MSIL">
+      <HintPath>..\packages\DataConnectionDialog.1.2\Lib\Microsoft.Data.ConnectionUI.Dialog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dataset2DDL.vb" />
+    <Compile Include="DataSet2Repository.vb" />
+    <Compile Include="DLANormalizeDataTable.vb" />
+    <Compile Include="FrmArchiMaid3.Designer.vb">
+      <DependentUpon>FrmArchiMaid3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmArchiMaid3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmArchitectureWizard.Designer.vb">
+      <DependentUpon>FrmArchitectureWizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmArchitectureWizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIDEAPackage.Designer.vb">
+      <DependentUpon>FrmIDEAPackage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIDEAPackage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIDEAPackageReporter.Designer.vb">
+      <DependentUpon>frmIDEAPackageReporter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIDEAPackageReporter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImportDocument.Designer.vb">
+      <DependentUpon>FrmImportDocument.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImportDocument.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModelAnalyser.Designer.vb">
+      <DependentUpon>FrmModelAnalyser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModelAnalyser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRelatedEntityChecker.Designer.vb">
+      <DependentUpon>FrmRelatedEntityChecker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRelatedEntityChecker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmText2ArchiMate.Designer.vb">
+      <DependentUpon>FrmText2ArchiMate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmText2ArchiMate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeDuplicator.vb" />
+    <Compile Include="DLADatabase.vb" />
+    <Compile Include="DLADataSetContainer.vb" />
+    <Compile Include="DLADataSetHelper.vb" />
+    <Compile Include="DLALoadTree.vb" />
+    <Compile Include="DLASupplier.vb" />
+    <Compile Include="FormFactoryGenerator.vb" />
+    <Compile Include="FrmDataSetInspector.Designer.vb">
+      <DependentUpon>FrmDataSetInspector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDataSetInspector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDataVault.Designer.vb">
+      <DependentUpon>FrmDataVault.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDataVault.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiagramDuplicator.Designer.vb">
+      <DependentUpon>FrmDiagramDuplicator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiagramDuplicator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmElementDeduplicator.Designer.vb">
+      <DependentUpon>FrmElementDeduplicator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmElementDeduplicator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIDEAClass.Designer.vb">
+      <DependentUpon>FrmIDEAClass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIDEAClass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIdeaDiagram.Designer.vb">
+      <DependentUpon>FrmIdeaDiagram.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIdeaDiagram.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIDEAFormFactory.Designer.vb">
+      <DependentUpon>FrmIDEAFormFactory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIDEAFormFactory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIDEATable.Designer.vb">
+      <DependentUpon>FrmIDEATable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIDEATable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImportExcel.Designer.vb">
+      <DependentUpon>FrmImportExcel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImportExcel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQueryExport.Designer.vb">
+      <DependentUpon>FrmQueryExport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQueryExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPackageDeduplicator.Designer.vb">
+      <DependentUpon>FrmPackageDeduplicator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPackageDeduplicator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReleaseManager.Designer.vb">
+      <DependentUpon>frmReleaseManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReleaseManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSettings.Designer.vb">
+      <DependentUpon>FrmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUniqueElement.Designer.vb">
+      <DependentUpon>FrmUniqueElement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUniqueElement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HTMLTemplates.vb" />
+    <Compile Include="IDEAAddIn.vb" />
+    <Compile Include="IDEADataTypes.vb" />
+    <Compile Include="IDEAGenerator.vb" />
+    <Compile Include="IDEADefinitions.vb" />
+    <Compile Include="Interactory Simulator.Designer.vb">
+      <DependentUpon>Interactory Simulator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Interactory Simulator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="PDFCreator.vb" />
+    <Compile Include="ReleaseContainer.vb" />
+    <Compile Include="ReleaseManager.vb" />
+    <Compile Include="DLA2EAHelper.vb" />
+    <Compile Include="FrmArchimAID.Designer.vb">
+      <DependentUpon>FrmArchimAID.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmArchimAID.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HTMLPublicator.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SimulatorContainer.vb" />
+    <Compile Include="_TEADataSet2Repository.vb" />
+    <Compile Include="WasteBin.vb" />
+    <Compile Include="WndWelcome.Designer.vb">
+      <DependentUpon>WndWelcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WndWelcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmArchimAID.resx">
+      <DependentUpon>FrmArchimAID.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmArchiMaid3.resx">
+      <DependentUpon>FrmArchiMaid3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmArchitectureWizard.resx">
+      <DependentUpon>FrmArchitectureWizard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDataSetInspector.resx">
+      <DependentUpon>FrmDataSetInspector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDataVault.resx">
+      <DependentUpon>FrmDataVault.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiagramDuplicator.resx">
+      <DependentUpon>FrmDiagramDuplicator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmElementDeduplicator.resx">
+      <DependentUpon>FrmElementDeduplicator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIDEAClass.resx">
+      <DependentUpon>FrmIDEAClass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIdeaDiagram.resx">
+      <DependentUpon>FrmIdeaDiagram.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIDEAFormFactory.resx">
+      <DependentUpon>FrmIDEAFormFactory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIDEAPackage.resx">
+      <DependentUpon>FrmIDEAPackage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIDEAPackageReporter.resx">
+      <DependentUpon>frmIDEAPackageReporter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIDEATable.resx">
+      <DependentUpon>FrmIDEATable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImportDocument.resx">
+      <DependentUpon>FrmImportDocument.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImportExcel.resx">
+      <DependentUpon>FrmImportExcel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModelAnalyser.resx">
+      <DependentUpon>FrmModelAnalyser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQueryExport.resx">
+      <DependentUpon>FrmQueryExport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPackageDeduplicator.resx">
+      <DependentUpon>FrmPackageDeduplicator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRelatedEntityChecker.resx">
+      <DependentUpon>FrmRelatedEntityChecker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReleaseManager.resx">
+      <DependentUpon>frmReleaseManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSettings.resx">
+      <DependentUpon>FrmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmText2ArchiMate.resx">
+      <DependentUpon>FrmText2ArchiMate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUniqueElement.resx">
+      <DependentUpon>FrmUniqueElement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interactory Simulator.resx">
+      <DependentUpon>Interactory Simulator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WndWelcome.resx">
+      <DependentUpon>WndWelcome.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="TEA.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arlogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eaxpertise-small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InterActorylogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InterActorylogoklein.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ApplicationCollaboration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ApplicationComponent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ApplicationEvent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ApplicationFunction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ApplicationInteraction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ApplicationInterface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ApplicationProcess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ApplicationService.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Artifact.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Assessment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessActor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessCollaboration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessEvent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessInteraction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessInterface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessObject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessProcess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessRole.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_BusinessService.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Capability.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_CommunicationNetwork.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Constraint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Contract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_CourseOfAction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_DataObject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Deliverable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Device.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_DistributionNetwork.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Driver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Equipment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Facility.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Gap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Goal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ImplementationEvent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Junction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Material.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Meaning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Node.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Outcome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Path.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Plateau.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Principle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Representation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Requirement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Resource.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Stakeholder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_SystemSoftware.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_TechnologyCollaboration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_TechnologyEvent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_TechnologyFunction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_TechnologyInteraction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_TechnologyInterface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_TechnologyProcess.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_TechnologyService.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_Value.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_ValueStream.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArchiMate_WorkPackage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ArchiMate_BusinessFunction.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

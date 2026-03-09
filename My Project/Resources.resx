@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="InterActorylogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\InterActorylogo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InterActorylogoklein" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\InterActorylogoklein.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eaxpertise-small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eaxpertise-small.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="busy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\busy.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ApplicationCollaboration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ApplicationCollaboration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ApplicationComponent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ApplicationComponent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ApplicationEvent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ApplicationEvent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ApplicationFunction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ApplicationFunction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ApplicationInteraction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ApplicationInteraction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ApplicationInterface" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ApplicationInterface.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ApplicationProcess" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ApplicationProcess.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ApplicationService" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ApplicationService.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Artifact" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Artifact.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Assessment" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Assessment.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessActor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessActor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessCollaboration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessCollaboration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessEvent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessEvent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessInteraction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessInteraction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessInterface" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessInterface.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessObject" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessObject.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessProcess" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessProcess.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessRole" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessRole.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_BusinessService" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_BusinessService.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Capability" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Capability.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_CommunicationNetwork" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_CommunicationNetwork.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Constraint" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Constraint.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Contract" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Contract.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_CourseOfAction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_CourseOfAction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_DataObject" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_DataObject.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Deliverable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Deliverable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Device" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Device.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_DistributionNetwork" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_DistributionNetwork.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Driver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Driver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Equipment" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Equipment.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Facility" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Facility.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Gap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Gap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Goal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Goal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ImplementationEvent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ImplementationEvent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Junction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Junction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Location" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Location.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Material" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Material.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Meaning" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Meaning.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Node" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Node.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Outcome" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Outcome.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Path" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Path.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Plateau" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Plateau.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Principle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Principle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Product" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Product.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Representation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Representation.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Requirement" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Requirement.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Resource" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Resource.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Stakeholder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Stakeholder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_SystemSoftware" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_SystemSoftware.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_TechnologyCollaboration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_TechnologyCollaboration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_TechnologyEvent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_TechnologyEvent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_TechnologyFunction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_TechnologyFunction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_TechnologyInteraction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_TechnologyInteraction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_TechnologyInterface" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_TechnologyInterface.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_TechnologyProcess" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_TechnologyProcess.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_TechnologyService" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_TechnologyService.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Value" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Value.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_ValueStream" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_ValueStream.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_WorkPackage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_WorkPackage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ArchiMate_Grouping" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ArchiMate_Grouping.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BannerHoog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BannerHoog.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
